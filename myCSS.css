@@ -1,17 +1,15 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
-body {
-	margin: 0 auto;
-}
+
 .homePage {
-	background: #45537C;
+	background: #5C4381;
 }
 .container {
 	width: 960px;
 	margin: 0 auto;
 }
 .header {
-	background: #AAAAAA;
+	background: #024B4C;
 	text-align: center;
 	margin: 0px;
 	padding: 5;
@@ -21,7 +19,7 @@ body {
 	
 }
 .nav {
-	background: #BBBBBB;
+	background: #46CC91;
 	margin: 0px;
 	padding: 5;
 	float: left;
@@ -30,7 +28,7 @@ body {
 	text-align: center;
 }
 .content {
-	background: #EEEEEE;
+	background: #C3D97C;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -38,7 +36,7 @@ body {
 	
 }
 .footer {
-	background: #777777;
+	background: #5B002F;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -47,7 +45,7 @@ body {
 }body {
      font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
      background-color: #FFFFFF;
-     margin: 0;
+     margin: 0 auto;
      padding: 0;
      color: #000;
 }
